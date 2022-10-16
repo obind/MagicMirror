@@ -5,14 +5,25 @@
             "Du machst den Unterschied!",
             "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
             "Schaust du noch immer in den Spiegel?",
-            "Der Spiegel sagt: 'Hallo!'"
+            "Der Spiegel sagt: 'Hallo!'",
+            "Mashalla einfach der Hübsche",
+            "Du hast unglaublich tolle Ideen",
+            "Die Farbe steht dir ausgezeichnet",
+            "Du riechst unglaublich gut",
+            "Cooles Outfit!",
+            "Deine Augenbrauen sehen perfekt aus",
+            "Hey Sexy!",
+
     ],
     "morning" : [
             "Dein Haar ist mega heute!",
+            "Du wirst von Tag zu Tag hübscher!",
             "Beginne den Tag mit einem Lächeln",
             "Das wird ein schöner Tag!",
             "Ist der Tag nicht großartig?",
             "Mach dich bereit für einen großartigen Tag!"
+            "Nichts vergessen?"
+            "Den Tag schaffst DU!"
     ],
     "afternoon" : [
             "Mache noch schnell deine Arbeit fertig ...",
@@ -22,9 +33,11 @@
     ],
     "evening" : [
             "Nur ein paar Anrufe zu erledigen ...",
-            "Guten Apetit",
+            "Endlich 'Geschafft",
             "Yeah, Freizeit",
+            "Du siehst immenroch gut aus",
             "Du machst den Unterschied",
             "War das Essen gut?"
+
     ]
 }
