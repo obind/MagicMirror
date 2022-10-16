@@ -21,15 +21,15 @@
             "Beginne den Tag mit einem Lächeln",
             "Das wird ein schöner Tag!",
             "Ist der Tag nicht großartig?",
-            "Mach dich bereit für einen großartigen Tag!"
-            "Nichts vergessen?"
-            "Den Tag schaffst DU!"
+            "Mach dich bereit für einen großartigen Tag!",
+            "Nichts vergessen?",
+            "Den Tag schaffst DU!",
     ],
     "afternoon" : [
             "Mache noch schnell deine Arbeit fertig ...",
             "Nachmittag, nicht Morgen, nicht Mittag",
             "Dieser Tag ist großartig",
-            "Beinahe Abendessenszeit!"
+            "Beinahe Abendessenszeit!",
     ],
     "evening" : [
             "Nur ein paar Anrufe zu erledigen ...",
@@ -37,7 +37,7 @@
             "Yeah, Freizeit",
             "Du siehst immenroch gut aus",
             "Du machst den Unterschied",
-            "War das Essen gut?"
+            "War das Essen gut?",
 
     ]
 }
